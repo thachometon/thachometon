@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ola! 👋
 
 <!--
 **thachometon/thachometon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Cytometry In R
+
+Location: Auckland.New Zealand
+
+My Favorite Fluorophore/Metal-Isotope: Spark PLUS UV 395
+
+Previous Coding Experience: Zero coding experience
+
+What I Hope to Get From This Course: Learn a bit how to code and use it in my Flow analysis 
 -->
